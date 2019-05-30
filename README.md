@@ -45,7 +45,7 @@ export default class DropMenu extends React.Component {
 ## **Properties**
 
 | Prop  | Default | Type | Description|
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
