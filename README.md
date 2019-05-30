@@ -37,3 +37,7 @@ export default class DropMenu extends React.Component {
 }
 
 ```
+
+
+
+##Properties
