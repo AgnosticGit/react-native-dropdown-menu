@@ -46,6 +46,10 @@ export default class DropMenu extends React.Component {
 
 | Prop  | Default | Type | Description|
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| arrElements | []  | array  | Array of all elements of drop down menu  |
+| getElements  |  | function  | The function is running when you select an item  |
+| mainElement  | 'Все'(rus)  | string  | Initial element  |
+| iconSource  | require('./arrowbot.png')  |  | Path to the picture |
+| customStyles  | {}  | object  | Styles |
+
 
