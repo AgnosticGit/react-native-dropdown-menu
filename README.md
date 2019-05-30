@@ -6,11 +6,13 @@
 
 
 ## **Example**
+
 ![Alt Text](https://media.giphy.com/media/kIQviwTXaZYndm6pyT/giphy.gif)
 
 
 
 ## **Usage**
+
 ```
 import React from 'react';
 import DropMenu from 'react-native-drop-menu'
@@ -42,5 +44,8 @@ export default class DropMenu extends React.Component {
 
 ## **Properties**
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
