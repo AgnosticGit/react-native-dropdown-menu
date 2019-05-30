@@ -1,0 +1,19 @@
+{
+  "name": "react-native-drop-menu",
+  "version": "1.0.0",
+  "description": "Drop down menu for react native framework",
+  "main": "drop_menu.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgnosticGit/react-native-dropdown-menu.git"
+  },
+  "author": "AgnosticGit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgnosticGit/react-native-dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/AgnosticGit/react-native-dropdown-menu#readme"
+}

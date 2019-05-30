@@ -43,6 +43,7 @@ export default class DropMenu extends React.Component {
                                             style={[styles.elements, this.props.customStyles.elements]}
                                             onPress={() => {
                                                 this.onSelect(item);
+                                                this.setState({open: false})
                                                 this.props.getElement(item)
                                             }}>
                                             <Text
@@ -62,4 +63,5 @@ DropMenu.defaultProps = {
     iconSource: require('./arrowbot.png'),
     customStyles: {},
 };
+
 
